@@ -1,11 +1,12 @@
-# Delicias Jazmín — versión cinematográfica
+# Delicias Jazmín — versão cinematográfica
 
-Propuesta visual **no oficial** para Delicias Jazmín, Ciudad del Este.
+Site conceitual, não oficial. Inspirado na narrativa de abertura e transição do arquivo de referência **Delícias da Lu original**, mas com marca, textos e imagens independentes.
 
-- HTML autocontenido (sin instalación ni servicios pagos)
-- Intro animada, hero con secuencia al desplazarse, foto principal creada para la propuesta
-- Carrusel de sabores, carta completa, secciones personalizadas, CTA directo a WhatsApp
-- Accesibilidad: reducción de movimiento, foco visible, navegación móvil
-- Imágenes ilustrativas generadas por IA (no representan productos reales verificados)
+## Diferenciais
+- Abertura editorial em espanhol com duas cenas por rolagem e bolo protagonista
+- Animação do bolo desacoplada do movimento por scroll (evita conflito de `transform`)
+- Catálogo, lista de sabores, galeria, serviços e reservas via WhatsApp
+- Imagens ilustrativas; não representam portfólio fotográfico oficial
+- Projeto estático com `index.html`, sem instalação ou serviços pagos
 
-**Antes de utilizar como sitio oficial**, consultar a Delicias Jazmín y obtener permiso para textos, marca, imágenes y publicación.
+Telefone público: **0983 338 483** (Paraguai).
