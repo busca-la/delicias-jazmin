@@ -1,13 +1,11 @@
-# Delicias Jazmín — website conceitual
+# Delicias Jazmín — versión cinematográfica
 
-Landing page estática em espanhol para demonstração visual, com catálogo interativo e contato por WhatsApp. Esta é uma **prévia não oficial**.
+Propuesta visual **no oficial** para Delicias Jazmín, Ciudad del Este.
 
-## Executar
+- HTML autocontenido (sin instalación ni servicios pagos)
+- Intro animada, hero con secuencia al desplazarse, foto principal creada para la propuesta
+- Carrusel de sabores, carta completa, secciones personalizadas, CTA directo a WhatsApp
+- Accesibilidad: reducción de movimiento, foco visible, navegación móvil
+- Imágenes ilustrativas generadas por IA (no representan productos reales verificados)
 
-Abra `index.html` no navegador. A página é autocontida e não precisa de instalação nem de serviços pagos.
-
-## Publicação
-
-Projeto Vercel: `delicias-jazmin` na equipe `buscalahv-9685s-projects`.
-
-**Atenção:** imagens adicionais são ilustrativas. Antes de apresentar como portfólio oficial, obter autorização da empresa, confirmar dados e direitos sobre as fotos.
+**Antes de utilizar como sitio oficial**, consultar a Delicias Jazmín y obtener permiso para textos, marca, imágenes y publicación.
